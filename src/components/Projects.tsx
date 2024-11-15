@@ -26,7 +26,7 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1000",
     tags: ["React", "TypeScript", "Node.js", "MongoDB", "bootstrap"],
-    link: "#",
+    link: "course-inn-frontend.vercel.app",
   },
 ];
 
