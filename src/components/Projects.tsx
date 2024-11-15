@@ -28,6 +28,15 @@ const projects = [
     tags: ["React", "TypeScript", "Node.js", "MongoDB", "bootstrap"],
     link: "https://course-inn-frontend.vercel.app/",
   },
+  {
+    title: "Unislink",
+    description:
+      "Admin management system for course creation, student tracking, and performance analytics.",
+    image:
+      "https://projectsly.com/images/blog/best-project-design.png?v=1686553999071005322",
+    tags: ["React", "TypeScript", "responsive web design", "bootstrap"],
+    link: "https://unislink-project.vercel.app/",
+  },
 ];
 
 export default function Projects() {
