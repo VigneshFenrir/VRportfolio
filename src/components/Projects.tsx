@@ -30,11 +30,10 @@ const projects = [
   },
   {
     title: "Unislink",
-    description:
-      "Admin management system for course creation, student tracking, and performance analytics.",
+    description: "Responsive website landling page. ",
     image:
       "https://projectsly.com/images/blog/best-project-design.png?v=1686553999071005322",
-    tags: ["React", "TypeScript", "responsive web design", "bootstrap"],
+    tags: ["Html", "Css", "responsive web design"],
     link: "https://unislink-project.vercel.app/",
   },
 ];
